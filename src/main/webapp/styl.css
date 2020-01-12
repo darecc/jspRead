@@ -1,0 +1,25 @@
+thead {color:green;}
+tbody {color:blue;}
+tfoot {color:red;}
+
+table, th, td {
+    border: 1px solid black;
+}
+.dziwny {
+    font-family: Calibri;
+    color: navy;
+    font-style: italic;
+}
+.dziwny:hover {
+    color: chocolate;
+    font-weight: bolder;
+}
+.morskieOko {
+    font-family: Tahoma;
+    font-weight: bold;
+    color: cadetblue;
+}
+.morskieOko:hover {
+    color: #AA0055;
+    font-weight: normal;
+}

@@ -1,0 +1,7 @@
+Adam,Poznań,Polska
+Antoni,Warszawa,Polska
+Helena,Wrocław,Polska
+Günther,Berlin,Niemcy
+John,Boston,USA
+Jewgienij,Moskwa,Rosja
+Kjel,Helsinki,Finlandia
